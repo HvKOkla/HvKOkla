@@ -3,7 +3,7 @@
 
 I build lightweight, high-performance tools and systems for games and real-time applications. Focusing on clean code, memory efficiency, and smooth rendering performance.
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 - **Languages:** C++17, Lua, JavaScript, HTML/CSS
 - **Specialization:** Engine Tooling, Game State Management, Custom UI Frameworks, Performance Optimization
@@ -24,4 +24,4 @@ I build lightweight, high-performance tools and systems for games and real-time 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&theme=dark)
 
 
- **Get in touch:** `HvKOkla.dev@proton.me` | [LinkedIn](https://www.linkedin.com/in/hvkokla/)
+ **Get in touch:** `HvKOkla.dev@proton.me` | [LinkedIn] (https://www.linkedin.com/in/hvkokla/)
