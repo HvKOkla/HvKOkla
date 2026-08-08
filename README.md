@@ -17,11 +17,15 @@ I build lightweight, high-performance tools and systems for games and real-time 
 | **[GameState-js](https://github.com/HvKOkla/GameState-js)** | `JavaScript` | Zero-dependency State Manager (~1 KB) for 2D Game Dev & FiveM NUI. Prevents micro-stutters by optimizing UI renders. |
 | **[BehaviorTree.js](https://github.com/HvKOkla/BehaviorTree.js)** | `JavaScript` | Ultra-lightweight, high-performance behavior tree library with zero memory allocation for AI dev. |
 | **[Visu.lua](https://github.com/HvKOkla/Visu.lua)** | `Lua` | Unified realistic post-processing and rendering framework for Lua. |
+###  GitHub Stats
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&theme=dark&rank_icon=percentile" alt="HvKOkla's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-![HvKOkla's GitHub stats](https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HvKOkla&theme=dark" alt="GitHub Streak" />
 
 
  **Get in touch:** `HvKOkla.dev@proton.me` | [LinkedIn] (https://www.linkedin.com/in/hvkokla/)
