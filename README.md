@@ -19,7 +19,7 @@ I build lightweight, high-performance tools and systems for games and real-time 
 | **[TinyResourceManager](https://github.com/HvKOkla/TinyResourceManager)** | `C++` | Header-only C++20 resource manager for games. |
 | **[GameState-js](https://github.com/HvKOkla/GameState-js)** | `JavaScript` | Zero-dependency State Manager (~1 KB) preventing micro-stutters. |
 | **[BehaviorTree.js](https://github.com/HvKOkla/BehaviorTree.js)** | `JavaScript` | Zero-allocation memory behavior tree library for AI. |
-| **[Visu.lua](https://github.com/HvKOkla/Visu.lua)** | `Lua` | Unified realistic rendering framework for Lua. |
+| **[Visu.lua](https://github.com/HvKOkla/Visu.lua)** | `Lua` | Unified rendering framework for Lua. Single API for 2D/3D, works with Love2D, LÖVE, and Defold. |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HvKOkla&theme=dark" alt="GitHub Streak" />
 
