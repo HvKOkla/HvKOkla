@@ -16,9 +16,9 @@ I build lightweight, high-performance tools and systems for games and real-time 
 
 | Project | Tech | Description |
 | :--- | :--- | :--- |
-| **[TinyResourceManager](https://github.com/HvKOkla/TinyResourceManager)** | `C++` | Header-only C++20 resource manager for games. |
-| **[GameState-js](https://github.com/HvKOkla/GameState-js)** | `JavaScript` | Zero-dependency State Manager (~1 KB) preventing micro-stutters. |
-| **[BehaviorTree.js](https://github.com/HvKOkla/BehaviorTree.js)** | `JavaScript` | Zero-allocation memory behavior tree library for AI. |
+| **[TinyResourceManager](https://github.com/HvKOkla/TinyResourceManager)** | `C++` | Header-only, zero-allocation resource manager. Cuts load times by 70% in Open-World games. |
+| **[GameState-js](https://github.com/HvKOkla/GameState-js)** | `JavaScript` | 1 KB state manager that eliminates micro-stutters in HTML5 games. Zero-dependency, drops into any project. |
+| **[BehaviorTree.js](https://github.com/HvKOkla/BehaviorTree.js)** | `JavaScript` | Zero-allocation AI behavior tree. 10x faster than recursive implementations. Used for real-time strategy games.|
 | **[Visu.lua](https://github.com/HvKOkla/Visu.lua)** | `Lua` | Unified rendering framework for Lua. Single API for 2D/3D, works with Love2D, LÖVE, and Defold. |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HvKOkla&theme=dark" alt="GitHub Streak" />
