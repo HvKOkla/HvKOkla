@@ -1,27 +1,22 @@
-# Hi, I'm HvK Oklawingu 👋
-### Game Developer & Engine Tooling Specialist
+## Hi, I'm HvK_Okla 👋
 
-I build lightweight, high-performance tools and systems for games and real-time applications.
+**Systems & tools developer** from France 
 
+I design **engines, libraries, and low-level systems** for game development — with a strong preference for **zero-dependency** architectures built on native standards.
 
-###  Tech Stack & Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=white)
+**Focus**: Game systems · Debugging · Procedural generation · Language design
+**Tech**: Lua · JavaScript · Racket and Rust
 
 
-### Highlighted Projects
+### Selected projects:
 
-| Project | Tech | Description |
-| :--- | :--- | :--- |
-| **[TinyResourceManager](https://github.com/HvKOkla/TinyResourceManager)** | `C++` | Header-only, zero-allocation resource manager. Cuts load times by 70% in Open-World games. |
-| **[GameState-js](https://github.com/HvKOkla/GameState-js)** | `JavaScript` | 1 KB state manager that eliminates micro-stutters in HTML5 games. Zero-dependency, drops into any project. |
-| **[BehaviorTree.js](https://github.com/HvKOkla/BehaviorTree.js)** | `JavaScript` | Zero-allocation AI behavior tree. 10x faster than recursive implementations. Used for real-time strategy games.|
-| **[Visu.lua](https://github.com/HvKOkla/Visu.lua)** | `Lua` | Unified rendering framework for Lua. Single API for 2D/3D, works with Love2D, LÖVE, and Defold. |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HvKOkla&theme=dark" alt="GitHub Streak" />
+- **[ldb](https://codeberg.org/HvK_Okla/ldb)** — Debugging toolkit for Lua
+- **[Visu.lua](https://codeberg.org/HvK_Okla/Visu.lua)** — 2D rendering, post-processing, VR
+- **[BehaviorTree.lua](https://codeberg.org/HvK_Okla/BehaviorTree.lua)** — Behavior trees for AI
+- **[Mapgen.lua](https://codeberg.org/HvK_Okla/Mapgen.lua)** — Procedural generation
+- **[GameState.js](https://codeberg.org/HvK_Okla/GameState.js)** — Reactive state with time travel
+- **[Akari](https://codeberg.org/HvK_Okla/Akari)** — Experimental language for learning
 
 
- **Get in touch:** `HvKOkla.dev@proton.me` | [LinkedIn] (https://www.linkedin.com/in/hvkokla/)
+**Discord** : HvK_Okla
+**ORCID** : [0009-0006-3903-4891](https://orcid.org/0009-0006-3903-4891)
