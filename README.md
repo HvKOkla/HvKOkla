@@ -20,3 +20,5 @@ I design **engines, libraries, and low-level systems** for game development — 
 
 **Discord** : HvK_Okla
 **ORCID** : [0009-0006-3903-4891](https://orcid.org/0009-0006-3903-4891)
+
+P.S.: I'm more active on Codeberg (I just use GitHub as a showcase).
