@@ -1,6 +1,6 @@
 # Hi, I'm HvK_Okla 👋
 
-### 🛠️ Systems & Tools Developer | Game Engine Enthusiast
+### Systems & Tools Developer | Game Engine Enthusiast
 
 I'm a developer from **France** specializing in **low-level systems, engines, and libraries for game development**. 
 
