@@ -38,6 +38,9 @@ My core philosophy is **zero-dependency architectures** built on native standard
 ![Native Standards](https://img.shields.io/badge/Native_Standards-00599C?style=flat-square)
 ![Performance-first](https://img.shields.io/badge/Performance--first-00599C?style=flat-square)
 
+---
+> *"Simplicity is prerequisite for reliability."* 
+> — **Edsger W. Dijkstra**
 </div>
 
 ---
