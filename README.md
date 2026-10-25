@@ -1,23 +1,22 @@
-<!-- ANIMATION 1 : Bannière animée en haut -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HvKOkla&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
 
 <div align="center">
 
-### 🎮 Game Systems Developer & Low-Level Architect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=HvKOkla&fontColor=FFFFFF&fontSize=66&fontAlignY=36&animation=twinkling&desc=Game%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descSize=18" alt="HvKOkla Banner" />
 
-<!-- ANIMATION 2 : Effet machine à écrire -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C2D72&center=true&vCenter=true&width=600&lines=Game+Systems+Developer;Low-Level+Architect;Engine+Design+Enthusiast;Zero-Dependency+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Game+Systems+Developer;Low-Level+Engineering+Enthusiast;Virtual+Machines+%26+CPU+Architecture;Procedural+Generation+%26+Game+AI" alt="Typing animation" />
 </a>
 
-<br>
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-hvk0kla.dev@proton.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvk0kla.dev@proton.me)
-[![Bluesky](https://img.shields.io/badge/Bluesky-hvkokla-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hvk-okla.bsky.social)
+<a href="mailto:hvk0kla.dev@proton.me">
+  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://bsky.app/profile/hvkokla.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+</a>
 
-<br>
+<br/><br/>
 
 *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
@@ -27,59 +26,147 @@
 
 ## 👾 About Me
 
-- 📍 Based in **France** 🇫🇷
-- 🛠️ Passionate about **game systems, engines, and computer architecture**.
-- 🧠 **Philosophy:** Zero-dependency code, native standards, and understanding computers from the high-level game loop all the way down to custom silicon.
-- 🌱 Currently focusing on: Virtual Machines, CPU Architecture & Procedural Generation.
+- Based in **France** 🇫🇷
+- Passionate about **game systems, engines, and computer architecture**.
+- I enjoy building small, understandable systems with minimal dependencies.
+- Currently exploring **virtual machines, CPU architecture, and procedural generation**.
 
 ---
 
-## 💻 Tech Stack & Specialties
+## 💻 Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **Specialties** | Game Systems • Engine Design • Procedural Generation • Virtual Machines • CPU Architecture |
+<img src="https://skillicons.dev/icons?i=rust,python,lua,js,git,github&theme=dark" alt="Tech stack"/>
+
+<br/><br/>
+
+![Game Systems](https://img.shields.io/badge/Game_Systems-18181B?style=flat-square)
+![Virtual Machines](https://img.shields.io/badge/Virtual_Machines-18181B?style=flat-square)
+![CPU Architecture](https://img.shields.io/badge/CPU_Architecture-18181B?style=flat-square)
+![Procedural Generation](https://img.shields.io/badge/Procedural_Generation-18181B?style=flat-square)
+![Game AI](https://img.shields.io/badge/Game_AI-18181B?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-*Here are some of the tools, engines, and systems I've built:*
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Focus |
-| :--- | :--- | :--- |
-| 💻 **R-32 (WIP)** | Custom 32-bit computer architecture, modular VM, and assembler designed for low-level experimentation. | *CPU Architecture & Systems* |
-| 🪲 **ldb** | Debugging toolkit for Lua. | *Developer Experience* |
-| 🎨 **Visu.lua** | 2D rendering, post-processing, and VR support. | *Graphics* |
-| 🌳 **BehaviorTree.lua** | Behavior trees for AI. | *Game AI* |
-| 🗺️ **Mapgen.lua** | Procedural generation tools. | *Algorithms* |
-| ⚛️ **GameState.js** | Reactive state with time travel. | *Architecture* |
+### 💻 [R-32 CPU](https://github.com/HvKOkla/R-32-CPU)
+
+A custom 32-bit computer architecture with a modular virtual machine and assembler.
+
+**Focus:** CPU Architecture · Virtual Machines · Low-Level Systems
+
+</td>
+<td width="50%">
+
+### 🧰 [TinyRessourceManager](https://github.com/HvKOkla/TinyRessourceManager)
+
+A resource-management project focused on system organization and tooling.
+
+**Focus:** Resource Management · Developer Tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐛 ldb
+
+A debugging toolkit for Lua.
+
+**Focus:** Debugging · Developer Experience
+
+</td>
+<td width="50%">
+
+### 🎨 Visu.lua
+
+2D rendering, post-processing, and VR-related experimentation.
+
+**Focus:** Graphics · Rendering
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌳 BehaviorTree.lua
+
+Behavior trees for game AI.
+
+**Focus:** Game AI · Decision Systems
+
+</td>
+<td width="50%">
+
+### 🗺️ Mapgen.lua & GameState.js
+
+Procedural generation tools and reactive state with time-travel concepts.
+
+**Focus:** Algorithms · Software Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Pinned Repositories
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/HvKOkla/R-32-CPU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HvKOkla&repo=R-32-CPU&theme=radical&hide_border=true" alt="R-32-CPU" />
-  </a>
-  <a href="https://github.com/HvKOkla/TinyRessourceManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HvKOkla&repo=TinyRessourceManager&theme=radical&hide_border=true" alt="TinyRessourceManager" />
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HvKOkla&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+
 </div>
 
+<details>
+<summary><strong>ℹ️ About these statistics</strong></summary>
+
+These statistics are provided by external services and may occasionally be unavailable. Language percentages reflect repository code and are not a direct measure of proficiency.
+
+</details>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HvKOkla/HvKOkla/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HvKOkla/HvKOkla/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HvKOkla/HvKOkla/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HvKOkla/HvKOkla/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 </div>
-<br>
 
-<!-- ANIMATION 4 : Vagues animées en bas -->
+---
+
+## 📫 Find Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hvk0kla.dev@proton.me)
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-hvkokla.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hvkokla.bsky.social)
+
+<br/>
+
+<sub>Built with curiosity, small systems, and a healthy respect for the machine.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:09090B,50:312E81,100:06B6D4&section=footer" alt="Animated footer"/>
+
 </div>
