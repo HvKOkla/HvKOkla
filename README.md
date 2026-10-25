@@ -1,22 +1,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=HvKOkla&fontColor=FFFFFF&fontSize=66&fontAlignY=36&animation=twinkling&desc=Game%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descSize=18" alt="HvKOkla Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=HvKOkla&fontColor=FFFFFF&fontSize=66&fontAlignY=36&animation=twinkling&desc=Game%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descSize=18" alt="HvKOkla banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Game+Systems+Developer;Low-Level+Engineering+Enthusiast;Virtual+Machines+%26+CPU+Architecture;Procedural+Generation+%26+Game+AI" alt="Typing animation" />
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=760&lines=%3E+boot+R-32;[OK]+Virtual+machine+initialized;[OK]+Loading+custom+instruction+set;Game+Systems+Developer;Low-Level+Engineering+%7C+CPU+Architecture" alt="Animated terminal" />
 </a>
 
-<br/>
-
-<a href="mailto:hvk0kla.dev@proton.me">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://bsky.app/profile/hvkokla.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-</a>
-
-<br/><br/>
+<p>
+<a href="mailto:hvk0kla.dev@proton.me"><img src="https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+<a href="https://bsky.app/profile/hvkokla.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-FOLLOW-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+</p>
 
 *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
@@ -24,16 +18,14 @@
 
 ---
 
-## 👾 About Me
+## `> whoami`
 
 - Based in **France** 🇫🇷
-- Passionate about **game systems, engines, and computer architecture**.
-- I enjoy building small, understandable systems with minimal dependencies.
-- Currently exploring **virtual machines, CPU architecture, and procedural generation**.
+- Interested in game systems, engine architecture, virtual machines, and computer architecture.
+- I enjoy building small, understandable systems with intentional dependencies.
+- Currently exploring virtual machines, CPU architecture, and procedural generation.
 
----
-
-## 💻 Tech Stack
+## `> tech_stack`
 
 <div align="center">
 
@@ -51,7 +43,25 @@
 
 ---
 
-## 🚀 Featured Projects
+## `> boot R-32`
+
+<div align="center">
+
+<img src="assets/r32-core.gif" width="100%" alt="Animated R-32 virtual CPU with ALU, registers and data flow"/>
+
+**R-32 — Custom 32-bit Architecture**
+
+`CPU Architecture` · `Virtual Machine` · `Assembler`
+
+[![Explore R-32](https://img.shields.io/badge/EXPLORE-R--32_CPU-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HvKOkla/R-32-CPU)
+
+</div>
+
+R-32 is my low-level experimentation project, exploring a custom 32-bit architecture and the software layers around it.
+
+---
+
+## `> ls ./projects`
 
 <table>
 <tr>
@@ -59,18 +69,18 @@
 
 ### 💻 [R-32 CPU](https://github.com/HvKOkla/R-32-CPU)
 
-A custom 32-bit computer architecture with a modular virtual machine and assembler.
+Custom 32-bit computer architecture, modular VM, and assembler.
 
-**Focus:** CPU Architecture · Virtual Machines · Low-Level Systems
+`CPU Architecture` `Virtual Machines`
 
 </td>
 <td width="50%">
 
 ### 🧰 [TinyRessourceManager](https://github.com/HvKOkla/TinyRessourceManager)
 
-A resource-management project focused on system organization and tooling.
+A resource-management project.
 
-**Focus:** Resource Management · Developer Tools
+`Resource Management` `Tooling`
 
 </td>
 </tr>
@@ -81,7 +91,7 @@ A resource-management project focused on system organization and tooling.
 
 A debugging toolkit for Lua.
 
-**Focus:** Debugging · Developer Experience
+`Lua` `Debugging`
 
 </td>
 <td width="50%">
@@ -90,7 +100,7 @@ A debugging toolkit for Lua.
 
 2D rendering, post-processing, and VR-related experimentation.
 
-**Focus:** Graphics · Rendering
+`Graphics` `Rendering`
 
 </td>
 </tr>
@@ -101,7 +111,7 @@ A debugging toolkit for Lua.
 
 Behavior trees for game AI.
 
-**Focus:** Game AI · Decision Systems
+`Game AI` `Decision Systems`
 
 </td>
 <td width="50%">
@@ -110,7 +120,7 @@ Behavior trees for game AI.
 
 Procedural generation tools and reactive state with time-travel concepts.
 
-**Focus:** Algorithms · Software Architecture
+`Algorithms` `Architecture`
 
 </td>
 </tr>
@@ -118,30 +128,30 @@ Procedural generation tools and reactive state with time-travel concepts.
 
 ---
 
-## 📊 GitHub Statistics
+## `> system_monitor`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HvKOkla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Most-used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HvKOkla&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=HvKOkla&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak"/>
 
 </div>
 
 <details>
-<summary><strong>ℹ️ About these statistics</strong></summary>
+<summary><strong>Stats diagnostics</strong></summary>
 
-These statistics are provided by external services and may occasionally be unavailable. Language percentages reflect repository code and are not a direct measure of proficiency.
+These cards use external services and may occasionally be unavailable or rate-limited. Language percentages describe repository contents, not proficiency. Statistics refresh according to the providers' schedules.
 
 </details>
 
 ---
 
-## 🐍 Contribution Snake
+## `> generate_contributions`
 
 <div align="center">
 
@@ -155,13 +165,13 @@ These statistics are provided by external services and may occasionally be unava
 
 ---
 
-## 📫 Find Me
+## `> connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hvk0kla.dev@proton.me)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=flat-square&logo=protonmail&logoColor=white)](mailto:hvk0kla.dev@proton.me)
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-hvkokla.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hvkokla.bsky.social)
+[![Bluesky](https://img.shields.io/badge/BLUESKY-hvkokla.bsky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/hvkokla.bsky.social)
 
 <br/>
 
