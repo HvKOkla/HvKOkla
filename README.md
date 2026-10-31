@@ -1,10 +1,10 @@
 &lt;div align="center"&gt;
 
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,45:312E81,100:06B6D4&text=HvKOkla&fontColor=FFFFFF&fontSize=60&fontAlignY=40&animation=twinkling&desc=Tools%20%26%20Engine%20Programming&descAlignY=60&descSize=16" alt="HvKOkla banner" /&gt;
+## HvKOkla
 
-&lt;a href="https://readme-typing-svg.herokuapp.com"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Tools+%26+Engine+Programmer;Low-Level+Systems+%7C+C%2B%2B+%2F+Rust;Developer+Tooling+%26+Build+Systems" alt="Typing animation" /&gt;
-&lt;/a&gt;
+**Tools & Engine Programmer**
+
+*Low-Level Systems | C++ / Rust | Developer Tooling & Build Systems*
 
 &lt;/div&gt;
 
@@ -18,12 +18,6 @@ Specialized in low-level systems, developer tooling, and engine architecture.
 I build tools that make teams more efficient: debuggers, profilers, build systems, and asset pipelines.
 
 ## `&gt; core_stack`
-
-&lt;div align="center"&gt;
-
-&lt;img src="https://skillicons.dev/icons?i=cpp,rust,python,lua,cmake,git&theme=dark" alt="Tech stack" /&gt;
-
-&lt;/div&gt;
 
 **Languages:** C++17/20, Rust, Python, Lua  
 **Systems:** Windows/Linux, CMake, CI/CD, Debugging (GDB, LLDB, RenderDoc)  
@@ -68,13 +62,7 @@ I build tools that make teams more efficient: debuggers, profilers, build system
 
 ## `&gt; contact`
 
-&lt;div align="center"&gt;
-
-![Email](https://img.shields.io/badge/Email-hvk0kla.dev%40proton.me-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white)
-![Bluesky](https://img.shields.io/badge/Bluesky-hvkokla.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-HvKOkla-181717?style=for-the-badge&logo=github&logoColor=white)
-
-&lt;/div&gt;
-
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:09090B,50:312E81,100:06B6D4&section=footer" alt="Footer" /&gt;
+📧 **Email:** hvk0kla.dev@proton.me  
+🦋 **Bluesky:** @hvkokla.bsky.social  
+💼 **LinkedIn:** [your-profile]  
+🐙 **GitHub:** HvKOkla
