@@ -1,12 +1,9 @@
-&lt;div align="center"&gt;
 
 ## HvKOkla
 
 **Tools & Engine Programmer**
 
-*Low-Level Systems | C++ / Rust | Developer Tooling & Build Systems*
-
-&lt;/div&gt;
+*Low-Level Systems | C++| Developer Tooling & Build Systems*
 
 ---
 
@@ -31,7 +28,7 @@ I build tools that make teams more efficient: debuggers, profilers, build system
 - Designed a 32-bit instruction set with binary encoding/decoding
 - Cycle-accurate VM with paged memory management
 - Two-pass assembler with bytecode generation
-- **Skills:** Rust, CPU architecture, parsing, bit manipulation, error handling
+- **Skills:** Python, CPU architecture, parsing, bit manipulation, error handling
 
 ### 🛠️ TinyRessourceManager
 **Engine-style resource management system**
@@ -57,12 +54,12 @@ I build tools that make teams more efficient: debuggers, profilers, build system
 ## `&gt; experience`
 
 - 🔍 **Seeking:** Tools Programmer or Engine Programmer (Internship/Apprenticeship/Full-time)
-- 🎓 **Education:** [Your education here]
+- 🎓 **Education:** 
 - 💡 **Interests:** Build systems, profilers, debuggers, asset pipelines
 
 ## `&gt; contact`
 
 📧 **Email:** hvk0kla.dev@proton.me  
-🦋 **Bluesky:** @hvkokla.bsky.social  
-💼 **LinkedIn:** [your-profile]  
+🦋 **Bluesky:** https://bsky.app/profile/hvk-okla.bsky.social 
+💼 **LinkedIn:**   
 🐙 **GitHub:** HvKOkla
