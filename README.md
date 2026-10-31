@@ -1,14 +1,3 @@
-&lt;div align="center"&gt;
-
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,45:312E81,100:06B6D4&text=HvKOkla&fontColor=FFFFFF&fontSize=60&fontAlignY=40&animation=twinkling&desc=Tools%20%26%20Engine%20Programming&descAlignY=60&descSize=16" alt="HvKOkla banner" /&gt;
-
-&lt;a href="https://readme-typing-svg.herokuapp.com"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Tools+%26+Engine+Programmer;Low-Level+Systems+%7C+C%2B%2B+%2F+Rust;Developer+Tooling+%26+Build+Systems" alt="Typing animation" /&gt;
-&lt;/a&gt;
-
-&lt;/div&gt;
-
----
 
 ## `&gt; whoami`
 
@@ -71,5 +60,3 @@ I build tools that make teams more efficient: debuggers, profilers, build system
 [![Email](https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=flat-square&logo=protonmail&logoColor=white)](mailto:hvk0kla.dev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Bluesky](https://img.shields.io/badge/BLUESKY-Follow-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/hvkokla.bsky.social)
-
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:09090B,50:312E81,100:06B6D4&section=footer" alt="Footer" /&gt;
