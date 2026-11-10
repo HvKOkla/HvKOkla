@@ -1,6 +1,7 @@
 # Hi there, I'm Quentin 👋
 
 **Founder of [Slytherin-RL](https://github.com/HvKOkla/Slytherin-RL)** — *A modular Reinforcement Learning framework for Edge AI.*
+
 **Creator of [Akari](https://github.com/HvKOkla/Akari)** — *A programming language built from scratch.*
 
 I'm an **AI & Tools Developer** passionate about building things from the ground up and optimizing them for low-end devices.
@@ -48,4 +49,3 @@ I'm an **AI & Tools Developer** passionate about building things from the ground
 - GitHub: [@HvKOkla](https://github.com/HvKOkla)
 - E-mail: HvKOkla.dev@proton.me
 - Bluesky: https://bsky.app/profile/hvk-okla.bsky.social
-- 
