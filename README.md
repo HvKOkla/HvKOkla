@@ -9,3 +9,4 @@ I am an **AI & Tools Developer** passionate about building things from scratch a
 - **AI Engineering:** Training agents (PPO) and optimizing models for Edge inference.
 - **Tooling:** Building clean, modular architectures (Engine/Game separation) and interactive dashboards (Streamlit).
 - **Low-level Math:** Implementing algorithms from scratch (NumPy) to understand the fundamentals.
+-**creator of the language** and founder of the Akari language
