@@ -16,6 +16,16 @@ I'm an **AI & Tools Developer** passionate about building things from the ground
 
 ---
 
+### 💬 Famous Quote
+
+> *"If I had an hour to solve a problem, I'd spend 55 minutes thinking about it and 5 minutes writing the solution."*
+>
+> — **Albert Einstein** *(attributed)*
+
+*This is me. I think deeply before I code — that's why I implement algorithms from scratch in NumPy to understand the fundamentals, design clean modular architectures (Engine/Game separation) before writing a single line, and build things like Slytherin-RL and Akari from first principles.*
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,7 +34,7 @@ I'm an **AI & Tools Developer** passionate about building things from the ground
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+
 
 ### 📌 Featured Projects
 
@@ -33,14 +43,9 @@ I'm an **AI & Tools Developer** passionate about building things from the ground
 | [**Slytherin-RL**](https://github.com/HvKOkla/Slytherin-RL) | Modular RL framework optimized for Edge AI |
 | [**Akari**](https://github.com/HvKOkla/Akari) | A programming language built from scratch |
 
----
-
-### 📊 GitHub Stats
-
-![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HvKOkla&show_icons=true&theme=default)
-
-
-
 ### 📫 Let's Connect
 
 - GitHub: [@HvKOkla](https://github.com/HvKOkla)
+- E-mail: HvKOkla.dev@proton.me
+- Bluesky: https://bsky.app/profile/hvk-okla.bsky.social
+- 
