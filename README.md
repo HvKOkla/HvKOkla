@@ -2,8 +2,6 @@
 
 **Founder of [Slytherin-RL](https://github.com/HvKOkla/Slytherin-RL)** — *A modular Reinforcement Learning framework for Edge AI.*
 
-**Creator of [Akari](https://github.com/HvKOkla/Akari)** — *A programming language built from scratch.*
-
 I'm an **AI & Tools Developer** passionate about building things from the ground up and optimizing them for low-end devices.
 
 
@@ -37,14 +35,11 @@ I'm an **AI & Tools Developer** passionate about building things from the ground
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
 ### 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | [**Slytherin-RL**](https://github.com/HvKOkla/Slytherin-RL) | Modular RL framework optimized for Edge AI |
-| [**Akari**](https://github.com/HvKOkla/Akari) | A programming language built from scratch |
 
 ### 📫 Let's Connect
 
